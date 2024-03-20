@@ -1,4 +1,4 @@
-#!/bin/bash 
+#!/usr/bin/env bash
 
 rofi_dir=$HOME/.config/rofi
 rofi_config="$rofi_dir/config.rasi"
